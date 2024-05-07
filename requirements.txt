@@ -1,7 +1,7 @@
 jupyter
-pandas
-numpy
+pandas>=2.2.2
+numpy>=1.26.4
 matplotlib
-altair
+altair>=5.3.0
 seaborn
 plotly
